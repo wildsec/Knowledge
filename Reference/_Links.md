@@ -27,6 +27,7 @@ https://crt.sh/
 ## Reconnaissance
 https://www.shodan.io/
 https://search.censys.io/
+[theHarvester | Kali Linux Tools](https://www.kali.org/tools/theharvester/) -> Emails, subdomains, hosts from public sources
 ## Hashing
 [SSDeep](https://ssdeep-project.github.io/ssdeep/index.html) -> Fuzzy Hashing
 
